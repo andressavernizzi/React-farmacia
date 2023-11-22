@@ -1,0 +1,8 @@
+.fundoCadastro {
+    background-image: url("https://www.hivecloud.com.br/wp-content/uploads/2021/04/transporte-de-medicamentos-hivecloud-scaled.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
